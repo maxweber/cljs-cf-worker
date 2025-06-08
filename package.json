@@ -3,9 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
-    "shadow-cljs": "2.25.10"
-  },
-  "dependencies": {
-    "wrangler": "^3.15.0"
+    "shadow-cljs": "2.25.10",
+    "wrangler": "^4.19.1"
   }
 }
